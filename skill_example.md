@@ -9,6 +9,6 @@ Your detailed instructions, guidelines, and examples go here...
 
 
 ref:
-- https://code.visualstudio.com/docs/copilot/customization/agent-skills
 - https://awesome-copilot.github.com/learning-hub/creating-effective-skills/
-- https://github.com/github/awesome-copilot/blob/main/instructions/agent-skills.instructions.md
+- Github Copilot: https://github.com/github/awesome-copilot/blob/main/instructions/agent-skills.instructions.md
+- Claude: https://support.claude.com/en/articles/12512198-how-to-create-custom-skills
