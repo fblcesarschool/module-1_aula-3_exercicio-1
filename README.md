@@ -32,5 +32,5 @@ Exemplo de como criar um **agente customizado**.
 ### **instructions_example.md**
 Exemplo de **instruções customizadas** para aplicar padrões de código em todo o projeto.
 
-### 🎯 **skill_example.md**
+### **skill_example.md**
 Exemplo de como criar uma **skill** (habilidade) customizada.
