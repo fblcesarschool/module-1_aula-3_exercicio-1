@@ -51,4 +51,8 @@ Boundaries
 - 🚫 **Never:** Commit secrets or API keys, edit `node_modules/` or `vendor/`
 ```
 
-Ref: https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
+Ref: 
+- Github Copilot: https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
+- Claude: https://code.claude.com/docs/en/sub-agents#general-purpose
+- Gemini: https://docs.cloud.google.com/gemini/enterprise/docs/agent-designer/create-agent?hl=pt
+- Codex: https://developers.openai.com/codex/guides/agents-md
